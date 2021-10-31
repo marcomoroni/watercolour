@@ -1,2 +1,1 @@
-# watercolour
-Watercolour texture in Processing
+A procedural watercolour texture in [Processing](https://processing.org/).
